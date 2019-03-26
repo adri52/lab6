@@ -65,3 +65,6 @@ void display(const Shape & s)
 {
 	s.print(cout);
 }
+
+
+//holis!!! 
